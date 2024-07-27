@@ -1,8 +1,4 @@
-# React + Vite
+# Task-Manager
+A task management application built with React and Redux. Allows users to add, edit, complete, and delete tasks. This project demonstrates the use of Redux for state management in a React application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
